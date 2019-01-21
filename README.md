@@ -2,7 +2,7 @@
 
 ### 참석전 꼭 동아리 소개를 작성해주세요!
  - 동아리 소개와 함께 2018년 동아리 활동 내용과 2019년의 활동 계획을 공유해주세요.
- - 작성하기 : [[Issues]](https://github.com/D2CAMPUS-PARTNER/8th-PARTNER-s-DAY/issues) 클릭!
+ - 작성하기 : [[Issues]](https://github.com/D2CAMPUS-PARTNER/8th-PARTNER-s-DAY/issues/new) 클릭!
 
 #### 다른 PARNTER와 함께 나누고 싶은 이야기가 있나요? - 10 min TALK!
 - 다른 PARNTER와 함께 나누고 싶은 이야기가 있다면 자유롭게 나누어 주세요! 근래 진행했던 재미있었던 프로젝트 이야기나 동아리 운영에 대한 노하우, 고민 혹은 다른 PARTNER 동아리 운영에 궁금한 점 등 모두 좋습니다. PARTNER가 함께 공감하고 편하게 이야기 나눌 수 있도록 열린 주제라면 모두 환영이에요!
