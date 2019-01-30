@@ -26,6 +26,9 @@
 
 동아리명|스터디분야|활동페이지
 --------------|----------|----------
+ChAOS|알고리즘|https://cauchaos.github.io/
+WhoIs|정보보안|https://fb.com/ajouwhois<br/>https://blog.ajou-whois.org<br/>https://github.com/ajou-whois
+KWEB|웹 개발동아리|-
 
 ### 문의
 naver_d2@naver.com
