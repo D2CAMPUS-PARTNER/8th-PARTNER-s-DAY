@@ -29,6 +29,7 @@
 ChAOS|알고리즘|https://cauchaos.github.io/
 WhoIs|정보보안|https://fb.com/ajouwhois<br/>https://blog.ajou-whois.org<br/>https://github.com/ajou-whois
 KWEB|웹 개발동아리|-
+RUN|알고리즘|-
 ALPS|알고리즘|-
 
 ### 문의
