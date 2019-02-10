@@ -31,6 +31,7 @@ WhoIs|정보보안|https://fb.com/ajouwhois<br/>https://blog.ajou-whois.org<br/>
 KWEB|웹 개발동아리|-
 RUN|알고리즘|-
 ALPS|알고리즘|-
+ISTeam|웹,앱 개발 및 프로젝트|-
 
 ### 문의
 naver_d2@naver.com
