@@ -32,6 +32,8 @@ KWEB|웹 개발동아리|-
 RUN|알고리즘|-
 ALPS|알고리즘|-
 ISTeam|웹,앱 개발 및 프로젝트|-
+SSG|정보보안|페이스북 : http://fb.com/sejongssg <br/>홈페이지 : https://ssg.sejong.ac.kr/ (공사중)
+POSCAT|알고리즘|-
 
 ### 문의
 naver_d2@naver.com
