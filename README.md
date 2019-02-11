@@ -31,6 +31,7 @@ WhoIs|정보보안|https://fb.com/ajouwhois<br/>https://blog.ajou-whois.org<br/>
 KWEB|웹 개발동아리|-
 RUN|알고리즘|-
 ALPS|알고리즘|-
+SCCC|알고리즘|https://sccc.kr
 KUICS|정보보안|https://kuics.korea.ac.kr/
 NEXTERS|IT개발동아리|http://teamnexters.com/<br/>https://github.com/Nexters
 ISTeam|웹,앱 개발 및 프로젝트|-
