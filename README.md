@@ -42,6 +42,7 @@ YBIGTA|빅데이터|-
 ALOHA|알고리즘|-
 쿠러그|IT동아리|-
 NEXTERS|IT개발동아리|http://teamnexters.com/<br/>https://github.com/Nexters
+SOPT|대학생연합IT벤처창업동아리|페이스북 : https://www.facebook.com/clubsopt/ <br/>홈페이지 : http://sopt.org
 
 ### 문의
 naver_d2@naver.com
