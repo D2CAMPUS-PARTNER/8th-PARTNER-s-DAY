@@ -39,7 +39,7 @@ SSG|정보보안|페이스북 : http://fb.com/sejongssg <br/>홈페이지 : http
 ISTeam|웹,앱 개발 및 프로젝트|-
 SCCC|알고리즘|https://sccc.kr
 YBIGTA|빅데이터|-
-ALOHA|알고리즘|-
+ALOHA|알고리즘|-페이스북 : https://www.facebook.com/HYUALOHA/ <br/>홈페이지 : https://aloha.hanyang.ac.kr/
 쿠러그|IT동아리|-
 NEXTERS|IT개발동아리|http://teamnexters.com/<br/>https://github.com/Nexters
 GON|정보보안|-
